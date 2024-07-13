@@ -1,0 +1,6 @@
+my_string = input("Привет Леша ")
+print("my_string". upper())
+print("my_string".lower())
+print("Привет Леша".replace(" ",""))
+print("Привет".replace("Привет","П"))
+print("Привет".replace("Привет","а"))
